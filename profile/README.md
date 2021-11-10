@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![](assets/logo.svg)
+![](https://raw.githubusercontent.com/pulumiverse/community/main/assets/logo.svg)
 
 <!--
 
